@@ -1,0 +1,80 @@
+html, body {
+    background-color: #333;
+    font-family: "Open Sans Light", sans-serif;
+}
+
+.ng-scope {
+    background-color: #333;
+}
+
+.home {
+    width: 600px;
+    margin: 30px auto;
+    color: #fff;
+    background-color: #333;
+}
+.home h1{
+    font-style: italic;
+    color: aquamarine;
+    font-size: 36px;
+    font-weight:100;
+    margin: 20px auto;
+    font-family: "Open Sans Light", sans-serif;
+}
+
+span{
+    color: greenyellow;
+}
+
+.post-array {
+    border-bottom: solid 2px;
+}
+
+.post-array h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+}
+h3 {
+    color: aquamarine;
+    font-weight: 100;
+    font-size: 24px;
+    font-family: "Open Sans Light", sans-serif;
+}
+
+.post-array p {
+    margin: 5px auto;
+}
+
+.post {
+    padding: 25px 0;
+    border-top: solid 2px;
+}
+
+.home .btn {
+    border-radius: 0px;
+}
+
+
+.suggestions {
+    width: 600px;
+    margin: 30px auto;
+    color: #fff;
+    background-color: #333;
+}
+
+.comment-array {
+    border-bottom: solid 2px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.comment-array h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+}
+.comment-array h3 {
+    color: green;
+    font-weight: 200;
+    font-size: 18px;
+}
